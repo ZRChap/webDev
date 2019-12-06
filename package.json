@@ -1,0 +1,25 @@
+{
+  "name": "webDev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZRChap/webDev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZRChap/webDev/issues"
+  },
+  "homepage": "https://github.com/ZRChap/webDev#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "lodash": "^4.17.15",
+    "normalize.css": "^8.0.1"
+  }
+}
